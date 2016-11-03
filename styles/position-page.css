@@ -1,1 +1,52 @@
+body * {}
 
+body {
+    background-image: url("/Users/none/Documents/projects/_repositories/css-layout-exercises-starter-files/images/outerspace_landscape.jpeg");
+    ;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+}
+
+img {
+    border-radius: 50%;
+    border-style: double;
+    position: absolute;
+    left: 60px;
+    width: 50px;
+}
+
+ul {
+    padding-left: 140px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+nav {
+    border: 1px solid black;
+    position: relative;
+    background-color: grey;
+}
+
+.space {
+    border: 10px green dotted;
+    margin: 300px;
+    width: 600px;
+    height: 300px;
+}
+
+.image1 img {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 100px;
+    left: -50px;
+}
+
+.image2 img {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 500px;
+}

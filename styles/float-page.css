@@ -1,12 +1,22 @@
 body {
-  background-color: black;
-  color: white;
+    background-color: black;
+    color: white;
 }
 
 main {
-  padding-left: 90px;
-  padding-right: 90px;
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+    padding-left: 90px;
+    padding-right: 90px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image1 {
+    float: left;
+    width: 55%;
+}
+
+.image2 {
+    float: right;
+    width: 40%;
 }
