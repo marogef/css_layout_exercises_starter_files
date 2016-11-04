@@ -1,8 +1,7 @@
 body * {}
 
 body {
-    background-image: url("/Users/none/Documents/projects/_repositories/css-layout-exercises-starter-files/images/outerspace_landscape.jpeg");
-    ;
+    background-image: url("/Users/none/Documents/projects/_repos/css_layout_exercises_starter_files/images/outerspace_landscape.jpeg");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
 }
